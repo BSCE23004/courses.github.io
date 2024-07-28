@@ -78,6 +78,17 @@ pre {
 .details {
     color: #70777b;
 }
+.header_list{
+    font-size: small;
+    list-style: none;
+    display: flex;
+    justify-content: right;
+}
+
+.header_list li {
+    display: inline;
+    margin-left: 20px;
+}
 .page_header .content .text {
     padding: 24px 24px 22px 24px;
     font-size: 22px;
